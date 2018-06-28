@@ -7,5 +7,5 @@ setup(name='firstpackage',
       author='RC',
       author_email='roopeshpredmac@gmail.com',
       license='MIT',
-      #packages=['firstpackage'],
+      packages=['firstpackage'],
       zip_safe=False)
